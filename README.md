@@ -45,10 +45,21 @@ By combining **data preprocessing, feature engineering, dimensionality reduction
 
 ---
 
-## 🛠️ Installation
-Clone the repository and install dependencies:
+## 🛠️ Tech Stack
+- Python
+- Pandas, NumPy
+- Matplotlib
+- Scikit-learn
+- Google Colab
+- Git & GitHub
 
-```bash
-git clone https://github.com/your-username/customer-segmentation.git
-cd customer-segmentation
-pip install -r requirements.txt
+---
+
+
+## 👋 About Me
+Aspiring **Data Scientist / ML Engineer** with hands-on experience in:
+- Large-scale data analysis
+- Feature engineering
+- Applied machine learning
+
+Actively seeking **Data Science / Machine Learning Opportunities**.
